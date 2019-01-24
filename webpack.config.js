@@ -5,7 +5,6 @@ require('es6-promise').polyfill();
 module.exports = {
 
   entry: './src/js/components/app.js',
-
   output: {
     path: __dirname + '/build',
     publicPath: '/build/',

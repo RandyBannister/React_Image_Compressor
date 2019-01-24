@@ -12,7 +12,6 @@ You can install it via NPM
 npm install react-image-compressor
 ```
 
-
 ## Usage
 ```javascript
 
